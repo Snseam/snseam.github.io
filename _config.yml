@@ -12,7 +12,7 @@ title                    : "Yueliang Ying"
 title_separator          : "-"
 name                     : &name "Yueliang Ying"
 description              : &description "personal description"
-url                      : https://snseam.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://snseam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snseam/snseam.github.io"
 
